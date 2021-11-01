@@ -9,51 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+The detailed curriculum vitae can be downloaded [here](/files/cswong_cv.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Department of Computer Science and Engineering, National Sun Yat-sen University, 2011
+* M.S. in Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul. 2021 -- Present: Academia Sinica, Taipei, Taiwan
+  * Title: Research Assistant
+    * Developing computer vision algorithms to extract geographic features from historical maps.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov. 2017 -- May 2021: Synology Incorporated, New Taipei City, Taiwan
+  * Title: Research Developer
+    * Led a group of 3 people to bring up 3 solid-state drive product series, increasing about 1% annual revenues (about 2 million USD/year).
+    * Maintained Linux NVMe and Intel NIC drivers for _DiskStation Manager_ and contributed 1 patch, solving a prospective race condition, to Linux Kernel community.
+    * Developed software features such as _Drive Firmware Upgrade Manager_, _Bad Block Management_, etc. of the _Storage Manager_ package on DSM.
   
+* Apr. 2015 -- Jun. 2017: Digital Camera and Computer Vision Laboratory, Taipei, Taiwan
+  * Title: Research Assistant
+    * Researched computer vision, digital image processing, and digital camera (ISP) algorithms.
+    * Focused on developing visual tracking algorithms and methods for defect inspection from X-ray images of printed circuit boards.
+
+* Apr. 2015 -- Jul. 2017: Lumens Digital Optics Incorporated, Hsinchu, Taiwan
+  * Title: Technical Consultant Assistant
+    * Analyzed computer vision algorithms, including stereo camera calibration, colored filter array interpolation, etc.
+    * Developed a camera system on NVIDIA Jetson TX2 platform for human tracking and video recording.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming: C, C++, Python, JaveScript, PyTorch, OpenCV, Linux Kernel
+* Developer skills: Linux, Git, Vim, LaTeX
