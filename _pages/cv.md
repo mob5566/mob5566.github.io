@@ -18,7 +18,10 @@ Education
 
 Work experience
 ======
-* Jul. 2021 -- Present: Academia Sinica, Taipei, Taiwan
+* Jun. 2022 -- Present: Google, New Taipei City, Taiwan
+  * Title: Software engineer III
+
+* Jul. 2021 -- Jun. 2022: Academia Sinica, Taipei, Taiwan
   * Title: Research Assistant
     * Developing computer vision algorithms to extract geographic features from historical maps.
 
@@ -40,5 +43,6 @@ Work experience
 
 Skills
 ======
-* Programming: C, C++, Python, JaveScript, PyTorch, OpenCV, Linux Kernel
+* Programming: C, C++, Python, JaveScript, PyTorch, OpenCV, Linux Kernel,
+  Little Kernel
 * Developer skills: Linux, Git, Vim, LaTeX
