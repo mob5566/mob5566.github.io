@@ -20,10 +20,12 @@ Work experience
 ======
 * Jun. 2022 -- Present: Google, New Taipei City, Taiwan
   * Title: Software engineer III
+    * Lead a project for validating Google chips by software.
+    * Manage the build environments (including CI/CD) of a software group.
 
 * Jul. 2021 -- Jun. 2022: Academia Sinica, Taipei, Taiwan
   * Title: Research Assistant
-    * Developing computer vision algorithms to extract geographic features from historical maps.
+    * Developed computer vision algorithms to extract geographic features from historical maps.
 
 * Nov. 2017 -- May 2021: Synology Incorporated, New Taipei City, Taiwan
   * Title: Research Developer
